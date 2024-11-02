@@ -1,6 +1,7 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
 # Mojifier 🎯
+![WhatsApp Image 2024-11-02 at 23 50 34_94979c8b](https://github.com/user-attachments/assets/eef61c8b-79f2-4ea5-a39e-32a82ed482af)
 
 
 ## Basic Details
