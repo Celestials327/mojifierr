@@ -48,8 +48,45 @@ For Hardware:
 ### Implementation
 For Software:
 # Run
-It is run on the Browser
-
+It is run on the Browser.
+Some basic Inputs
+happy: 😊 😁
+sad: 😢 😞
+angry: 😡 🔥
+love: ❤️ 😍
+confused: 😕 🤔
+excited: 🤩 🥳
+bored: 😐 😴
+hopeful: 🌈 🔥
+grateful: 🙏 ✨
+surprised: 😲 🤯
+anxious: 😬 😰
+relaxed: 😌 🧘
+tired: 😴 💤
+proud: 😌 🏆
+curious: 🤔 🔍
+joyful: 😆 🎉
+mischievous: 😈 👻
+overwhelmed: 😣 💻
+peaceful: ☮️ 🍃
+playful: 🤪 🎲
+reflective: 🧘 📖
+compassionate: 💗 🥰
+I love: "❤️😍"
+you make me: "❤️😊"
+I miss you: "💔😢"
+happy birthday: 🎂 🎉
+good night: 🌙 😴
+good morning: 🌞 ☕
+congratulations: 🎉 👏
+thank you: 🙏 ❤️
+well done: 👏 🏆
+see you soon: 👋 😄
+I'm sorry: 😞 💔
+I'm excited: 🤩 🎉
+you're amazing: 😍 👏
+be safe: 🛡️ ❤️
+good luck: 🍀 ✨
 
 ### Project Documentation
 For Software:
