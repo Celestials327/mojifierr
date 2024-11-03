@@ -5,7 +5,7 @@
 
 
 ## Basic Details
-### Team Name: [Celestials]
+### Team Name: Celestials
 
 
 ### Team Members
@@ -36,14 +36,14 @@ where everyone is invited to join the fun!
 ### Technologies/Components Used
 For Software:
 - Python,HTML
-- flask,nltk
-- SocketIO, emit, join_room, leave_room,SentimentIntensityAnalyzer
-- vs code
+- Flask,Nltk
+- SocketIO, Emit, Join_room, Leave_room,SentimentIntensityAnalyzer
+- VS Code
 
 For Hardware:
-- laptop
+- Laptop
 - 4 gb ram
-- vs code
+- VS code
 
 ### Implementation
 For Software:
@@ -68,18 +68,9 @@ after sending
 
 # Diagrams
 
-![image](https://github.com/user-attachments/assets/3728e61c-8836-4619-b822-f784704deec3)
+![image](![image](https://github.com/user-attachments/assets/26690d43-4f15-4890-b401-015bae88fa55)
+)
 Here is the workflow diagram for the Emoji Messenger app, showing the flow from user actions to server responses and chat updates.
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 
 ## Team Contributions
