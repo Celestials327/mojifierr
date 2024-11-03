@@ -47,11 +47,9 @@ For Hardware:
 
 ### Implementation
 For Software:
-# Installation
-[commands]
-
 # Run
-[commands]
+It is run on the Browser
+
 
 ### Project Documentation
 For Software:
