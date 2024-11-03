@@ -76,12 +76,11 @@ after sending
 # Diagrams
 
 ![image](![image](https://github.com/user-attachments/assets/26690d43-4f15-4890-b401-015bae88fa55)
-)
 Here is the workflow diagram for the Emoji Messenger app, showing the flow from user actions to server responses and chat updates.
 
 
 ## Team Contributions
-- MOHAMMED ROSHAN A N:Java script
+- MOHAMMED ROSHAN A N:Javascript
 - KAILAS M S: PYTHON
 - MIDHUN G KAIMAL:HTML
 
