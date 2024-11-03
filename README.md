@@ -58,12 +58,19 @@ For Software:
 
 # Screenshots (Add at least 3)
 ![image](https://github.com/user-attachments/assets/b3e55168-e51a-485f-b43d-3a03b6e40496)
+
+
+
 our login page where you type your id and room number
 
 ![image](https://github.com/user-attachments/assets/36eb1e2c-2d3f-4ab2-a5e8-01e503f65cad)
+
+
 before sending
 
 ![image](https://github.com/user-attachments/assets/c50fb14f-1c02-4eb1-9a4e-0a0abec81826)
+
+
 after sending
 
 # Diagrams
